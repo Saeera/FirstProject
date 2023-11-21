@@ -11,8 +11,6 @@ print(student);
 student.displayname="Kiran";
 print(student.displayname);
 
-student.testMarks=900;
-print(student.testMarks);
 
 student.calculatePercentage=800;
 print(student.calculatePercentage);
